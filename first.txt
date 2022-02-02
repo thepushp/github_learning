@@ -1,3 +1,6 @@
 hello this is my first commit
+    my learningd
+    how to create branchefa-spin
+    how to do <i class="fas fa-theater-masks    "></i>
 here it comes second commit
 and the third one
